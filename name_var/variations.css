@@ -1,0 +1,32 @@
+h3{
+    font-size: 30px;
+    text-align: center;
+}
+.container{
+    display: grid;
+    place-items: center;
+
+}
+h2{
+    text-align: center;
+}
+table, td, th{
+    border: solid 1px black;
+    margin-top: 50px;
+    border-collapse: collapse;
+    width: 700px;
+}
+th{
+    height: 50px;
+    background-color: lightcyan;
+}
+td{
+    height: 30px;
+    padding-left: 20px;
+}
+input{
+    width: 200px;
+}
+label{
+    font-size: 20px;
+}
